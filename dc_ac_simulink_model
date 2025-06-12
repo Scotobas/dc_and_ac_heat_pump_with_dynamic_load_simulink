@@ -1,0 +1,83 @@
+# 🔥 Simulink Models for DC and AC Heat Pump Systems
+
+Welcome to this repository containing two fully functional and customizable Simulink models:
+- **DC Heat Pump with Dynamic Load**
+- **AC Heat Pump with Dynamic Load**
+
+These models are designed for engineers, students, and researchers working in the fields of **power systems**, **thermal load management**, **energy modeling**, and **smart grid applications**.
+
+---
+
+## 📁 Models Included
+
+### 1. **DC Heat Pump Model**
+- Simulates a **DC-powered heat pump**
+- Includes a **dynamically varying load profile**
+- Integrates with a **DC distribution panel**
+- Uses **thermal modeling** to represent compressor behavior
+- Supports **steady-state and transient analysis**
+
+### 2. **AC Heat Pump Model**
+- Operates with a **three-phase AC input**
+- Includes rectification and DC bus interface for downstream control
+- Simulates **compressor dynamics under load** with inverter-fed drive
+- Useful for **grid-connected** or **AC microgrid scenarios**
+
+---
+
+## ⚙️ Features
+
+- Full **Simulink `.slx` model** files
+- Optional `.m` initialization script for parameter setup
+- 20-coefficient compressor performance map (torque vs current)
+- Embedded **thermal model for steady-state behavior**
+- Measured outputs: torque, current, voltage, temperature
+- Editable blocks for customization and extension
+
+---
+
+## 📊 Use Cases
+
+- HVAC system modeling
+- Renewable energy research
+- DC/AC microgrid simulation
+- MATLAB/Simulink education
+- Energy-efficient motor drive analysis
+
+---
+
+## 🧪 Simulation Requirements
+
+- **MATLAB R2020a** or later (DC model supports R2016a+ with edits)
+- **Simscape** and **Simscape Electrical**
+- Optional: Simulink Control Design, Simulink Signal Processing
+
+---
+
+## 📦 Download & Licensing
+
+The full version of each model is available for download:
+
+| Model | Purchase Link |
+|-------|----------------|
+| DC AND AC Heat Pump | [Buy on Gumroad](https://9237048361784.gumroad.com/l/saxze) |
+
+
+📝 Each purchase includes:
+- `.slx` file
+- `.m` script for parameters
+- Quick-start setup guide
+
+📌 **License:** Personal, academic, or commercial use (no redistribution without permission)
+
+---
+
+## 💬 Contact & Support
+
+For inquiries, customization requests, or academic collaborations, please contact:
+
+- 📧 Email: `scottobayanedo@gmail.com`
+- 🔗 LinkedIn: (www.linkedin.com/in/scottidubormnse)
+
+---
+
